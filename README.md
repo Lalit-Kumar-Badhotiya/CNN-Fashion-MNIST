@@ -1,3 +1,1 @@
-
-
 # CNN-Fashion-MNIST
