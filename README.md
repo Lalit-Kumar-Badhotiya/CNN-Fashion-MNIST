@@ -17,6 +17,4 @@
 
 
 
-
-
 # CNN-Fashion-MNIST
