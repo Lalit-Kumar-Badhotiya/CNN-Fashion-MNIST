@@ -2,4 +2,4 @@
 
 
 
-# CNN-Fashion-MNIST
+# CNN-Fashion-MNISt
