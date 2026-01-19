@@ -1,4 +1,3 @@
-
 # CNN Classifying Fashion MNIST
 
 Simple [convolutional neural network] (CNN) classifying clothing images from the [Fashion MNIST dataset].
